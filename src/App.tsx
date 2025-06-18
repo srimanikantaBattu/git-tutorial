@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   return (
     <div className="">
-      <p>Hello Checkings</p>
+      <p>Changed in the feature1</p>
     </div>
   )
 }
