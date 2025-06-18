@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   return (
     <div className="">
-      <p>Changed in the feature1</p>
+      <p>Changed in the feature2</p>
     </div>
   )
 }
